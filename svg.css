@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-size: large;
+}
+
+line {
+    stroke: purple;
+
+}
+
+rect {
+    fill: saddlebrown;
+}
